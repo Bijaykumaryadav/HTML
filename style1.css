@@ -1,0 +1,85 @@
+/* p{
+    color:blue;
+    font-size: 30px;
+} */
+h4{
+    text-transform: capitalize;
+}
+main{
+    width: 70%;
+}
+a[href="https://blog.codingninjas.in"]{
+    font-size: 1.8rem;
+    color: #1a1a1a;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1.25;
+    font-family: sans-serif;
+}
+a[href="https://blog.codingninjas.in"]:hover{
+    color: #dc6520;
+}
+#blog-des{
+    color: #3c5349;
+    font-weight: 600;
+    margin-top: 5px;
+}
+/*aside*/
+aside {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 3%;
+    width: 25%;
+}
+
+.widget {
+    border-top: 1px solid black;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}
+
+.widget a {
+    color: #dc6520;
+}
+
+.widget a:hover {
+    color: #1a1a1a;
+}
+
+.widget .widget-title {
+    letter-spacing: 0.05rem;
+    font-size: 1.1rem;
+    word-spacing: 0.1rem;
+}
+input,
+textarea {
+    margin-bottom: 15px;
+    padding: 4px 10px;
+    background-color: #f7f7f7;
+    border: 1px solid #d1d1d1;
+    color: #686868;
+    display: block;
+    line-height: 1.6;
+    font-size: 1.05rem;
+    color: #000000;
+}
+
+button[type="submit"] {
+    background-color: #1a1a1a;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    color: #fff;
+    letter-spacing: 0.1rem;
+    line-height: 1;
+    padding: 12px 18px;
+}
+
+button[type="submit"]:hover {
+    background-color: #dc6520;
+}
+main{
+    display: inline-block;
+}
+#div-margin{
+    margin-bottom: 30px;
+}

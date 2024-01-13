@@ -1,0 +1,39 @@
+#div-1{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    position: relative;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    align-items: center;
+    flex-direction: row;
+}
+#div-2{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    position: relative;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    align-items: center;
+    flex-direction: row;
+}
+#div-3{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    position: relative;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    align-items: center;
+    flex-direction: row;
+}
+.color{
+    height: 600px;
+    width: 600px;
+    align-items: center;
+    flex-direction: row;
+}
